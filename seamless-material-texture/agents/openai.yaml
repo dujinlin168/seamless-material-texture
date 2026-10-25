@@ -1,0 +1,6 @@
+interface:
+  display_name: "制作材质无缝贴图"
+  short_description: "沿用你的生图能力，提取与净化材质纹理，并检查重复铺贴的接缝与颜色"
+  default_prompt: "使用 $seamless-material-texture，沿用我现有的生图流程，将指定材质制作成独立可平铺色彩贴图并检查接缝。"
+policy:
+  allow_implicit_invocation: true
